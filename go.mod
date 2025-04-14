@@ -17,14 +17,10 @@ require (
 	github.com/openzipkin/zipkin-go v0.2.0
 	github.com/philhofer/fwd v1.0.0 // indirect
 	github.com/rogpeppe/go-internal v1.5.2 // indirect
-	github.com/rs/cors v1.7.0
 	github.com/stretchr/objx v0.2.0 // indirect
 	github.com/stretchr/testify v1.4.0
 	github.com/tinylib/msgp v1.1.0 // indirect
-	golang.org/x/crypto v0.0.0-20200214034016-1d94cc7ab1c6 // indirect
-	golang.org/x/net v0.0.0-20191009170851-d66e71096ffb // indirect
-	golang.org/x/sys v0.0.0-20200212091648-12a6c2dcc1e4 // indirect
-	golang.org/x/text v0.3.2 // indirect
+	golang.org/x/crypto v0.35.0 // indirect
 	golang.org/x/time v0.0.0-20190921001708-c4c64cad1fd0
 	golang.org/x/xerrors v0.0.0-20191011141410-1b5146add898 // indirect
 	google.golang.org/genproto v0.0.0-20191007204434-a023cd5227bd // indirect
